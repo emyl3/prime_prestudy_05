@@ -1,6 +1,6 @@
 var avengersMovie = {
 	name: "Avengers",
-	runtimeMins: 143,
+	runtime: [143, "mins"],
 	releaseYear: 2012,
 	director: "Joss Whedon"
 };
